@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <ProjectInfo ProjectId="09d6bc02-5047-4fd5-bb98-8da1b9a47971" ESProjectName="2025_10_05" ESDeviceName="HMI_RT_1" RtProjectFolderName="2025_10_05.PU_HMI[MTP1200 Unified Comfort]" RtProjectName="2025_10_05.PU_HMI[MTP1200 Unified Comfort]" DeviceType="MTP1200 Unified Comfort" DeviceVersion="18.0.0.0" CreationTime="08/14/2025 09:39:32" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="" RuntimeFileName="" PRCV="4.1.0.0" RTCV="16.0.0.0" RTReleaseNo="18.0.0.0" ImageReleaseNo="18.0.0.0" />
+  <ProjectInfo ProjectId="09d6bc02-5047-4fd5-bb98-8da1b9a47971" ESProjectName="2025_10_17" ESDeviceName="HMI_RT_1" RtProjectFolderName="2025_10_17.PU_HMI[MTP1200 Unified Comfort]" RtProjectName="2025_10_17.PU_HMI[MTP1200 Unified Comfort]" DeviceType="MTP1200 Unified Comfort" DeviceVersion="18.0.0.0" CreationTime="08/14/2025 09:39:32" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="" RuntimeFileName="" PRCV="4.1.0.0" RTCV="16.0.0.0" RTReleaseNo="18.0.0.0" ImageReleaseNo="18.0.0.0" />
   <FullDownload type="ADMINDATA">UMCData.json</FullDownload>
   <FullDownload>User.pbb</FullDownload>
   <FullDownload>{894AD6A7-6155-424B-AA9D-7E77FD174D24}.zip</FullDownload>
